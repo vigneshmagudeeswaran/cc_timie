@@ -1,0 +1,709 @@
+.main-db-blank-page .category {
+    margin: 1px 18.6px 1px 0;
+    width: 17px;
+    height: 17px;
+}
+
+.main-db-blank-page .dashboard {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-218 {
+    margin: 0 47.3px 22px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .document-1 {
+    width: 15.3px;
+    height: 17px;
+}
+
+.main-db-blank-page .group-2221 {
+    margin: 1px 19.3px 1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15.3px;
+    height: 17px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .notice {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-222 {
+    margin: 0 73.1px 22px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-233 {
+    margin: 0 19.9px 1.9px 0;
+    width: 14.7px;
+    height: 17.1px;
+}
+
+.main-db-blank-page .apply-for-leave {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-223 {
+    margin: 0 20.8px 22px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .folder {
+    margin: 1px 18.4px 0.8px 0;
+    width: 17.2px;
+    height: 17.2px;
+}
+
+.main-db-blank-page .access-asset-1 {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: normal;
+    color: #000000;
+    padding-left: 10px;
+    padding-right: 0px;
+}
+
+.main-db-blank-page .group-224 {
+    margin: 0 27.3px 22px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .stroke-13 {
+    margin-bottom: 1.2px;
+    width: 1.3px;
+    height: 3.5px;
+}
+
+.main-db-blank-page .stroke-6 {
+    margin-bottom: 1.7px;
+    width: 1.3px;
+    height: 5.6px;
+}
+
+.main-db-blank-page .stroke-33 {
+    margin-bottom: 0px;
+    width: 1.3px;
+    height: 3.1px;
+}
+
+.main-db-blank-page .group-219 {
+    opacity: 0.4;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1.3px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .ticket-1 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 19px;
+    height: 15.5px;
+}
+
+.main-db-blank-page .ticket {
+    position: relative;
+    margin: 2px 17.7px 1.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.2px 7.2px 0.2px 10.5px;
+    width: 19px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .salary-slip-1 {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-225 {
+    margin: 0 50.2px 22px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .document {
+    position: relative;
+    width: 16px;
+    height: 17.8px;
+}
+
+.main-db-blank-page .group-260 {
+    margin: 0.1px 19.6px 1.1px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 16px;
+    height: 17.8px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .attendance {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-256 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .container {
+    margin: 0 43.3px 22px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .ticket-star {
+    margin: 1.6px 18.6px 2.1px 0;
+    width: 17px;
+    height: 15.3px;
+}
+
+.main-db-blank-page .holiday {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-249 {
+    margin: 0 67.9px 22px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .ellipse-736 {
+    border-radius: 4.1px;
+    margin: 0 2.4px 3.1px 2.4px;
+    width: 8.2px;
+    height: 8.2px;
+}
+
+.main-db-blank-page .path-33945 {
+    opacity: 0.4;
+    width: 13px;
+    height: 5.2px;
+}
+
+.main-db-blank-page .profile {
+    margin: 0.2px 0 2.2px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 13px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .employee-detail {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-250 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-255 {
+    margin: 0 13.5px 22px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 133.5px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .calendar-1 {
+    width: 17.1px;
+    height: 19px;
+}
+
+.main-db-blank-page .calendar {
+    margin: 0 18.5px 0px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 17.1px;
+    height: 19px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .calender {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-251 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-258 {
+    margin: 0 59.4px 22px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .paper-negative {
+    margin: 2px 0 1.6px 0;
+    width: 13px;
+    height: 15.4px;
+}
+
+.main-db-blank-page .resign {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-252 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-257 {
+    margin: 0 70.8px 54px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 76.2px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .vector {
+    opacity: 0.4;
+    margin: 2px 0 2.8px 0;
+    width: 15px;
+    height: 16.2px;
+}
+
+.main-db-blank-page .logout {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-9 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-211 {
+    margin: 0 64.6px 38px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 84.4px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .collape {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 500;
+    font-size: 17.5px;
+    line-height: 1.18;
+    color: #000000;
+}
+
+.main-db-blank-page .group-144 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .vector-401 {
+    margin-right: 3.6px;
+    width: 7.2px;
+    height: 14.4px;
+}
+
+.main-db-blank-page .vector-402 {
+    width: 7.2px;
+    height: 14.4px;
+}
+
+.main-db-blank-page .group-210 {
+    margin: 3.8px 0 2.8px 0;
+    display: flex;
+    flex-direction: row;
+    width: 18px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-216 {
+    opacity: 0.75;
+    background: #E8E8FF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px 0 13px 0;
+    width: 273px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-217 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 273px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .container-3 {
+    box-shadow: 0px 73px 32px 0px rgba(1, 0, 138, 0.12);
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 59px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 138px 0 300px 0;
+    width: 273px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-9 {
+    margin-bottom: 40.6px;
+    width: 474px;
+    height: 321.4px;
+}
+
+.main-db-blank-page .we-dont-have-anything-to-show-here {
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.432;
+    color: #000000;
+}
+
+.main-db-blank-page .group-439 {
+    margin-right: 25.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .group-438 {
+    border-radius: 19px;
+    border: 1px solid #DFDFDF;
+    background: #FFFFFF;
+    position: relative;
+    margin: 138px 0 150px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 141px 0 140px 0;
+    width: 971px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .dashboard-1 {
+    margin: 14px 9px 6px 0;
+    display: inline-block;
+    width: 95px;
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.18;
+    color: #FFFFFF;
+}
+
+.main-db-blank-page .notice-1 {
+    opacity: 0.8;
+    margin-right: 9px;
+    width: 62px;
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.18;
+    color: #FFFFFF;
+}
+
+.main-db-blank-page .apply-for-leave-1 {
+    opacity: 0.8;
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.18;
+    color: #FFFFFF;
+}
+
+.main-db-blank-page .container-2 {
+    margin: 14px 0 6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 158.8px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .access-asset {
+    opacity: 0.8;
+    margin: 14px 0 6px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.18;
+    color: #FFFFFF;
+}
+
+.main-db-blank-page .salary-slip {
+    opacity: 0.8;
+    margin: 14px 0 6px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.18;
+    color: #FFFFFF;
+}
+
+.main-db-blank-page .notification {
+    position: absolute;
+    left: 0px;
+    top: 13px;
+    width: 17px;
+    height: 20px;
+}
+
+.main-db-blank-page .ellipse-8 {
+    border-radius: 7.5px;
+    background: #FF3874;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 15px;
+    height: 15px;
+}
+
+.main-db-blank-page .container {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 800;
+    font-size: 8px;
+    line-height: 1.1;
+    color: #FFFFFF;
+}
+
+.main-db-blank-page .group-21 {
+    position: relative;
+    margin-right: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 3px 3.9px 0 18px;
+    height: 33px;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .setting {
+    margin: 13px 0 0.8px 0;
+    width: 17.8px;
+    height: 19.2px;
+}
+
+.main-db-blank-page .container-4 {
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .ellipse-9 {
+    border-radius: 19px;
+    background: url('assets/images/Ellipse91.png') 50% / cover no-repeat;
+    margin-right: 12px;
+    width: 38px;
+    height: 38px;
+}
+
+.main-db-blank-page .arpita {
+    margin: 10px 0 9px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: -0.2px;
+    line-height: 1.18;
+    color: #FFFFFF;
+}
+
+.main-db-blank-page .group-22 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .container-1 {
+    background: #01008A;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 22px 72.8px 22px 0;
+    box-sizing: border-box;
+}
+
+.main-db-blank-page .oms-employee {
+    border: 0.4px solid #FFFFFF;
+    position: absolute;
+    left: 67px;
+    top: 14px;
+    overflow-wrap: break-word;
+    font-family: 'Michroma';
+    font-weight: 400;
+    font-size: 13.8px;
+    letter-spacing: 1.7px;
+    line-height: 1.295;
+    color: #FFFFFF;
+}
+
+.oms-employee-sub99 {
+    font-family: 'Michroma';
+    font-weight: 400;
+    font-size: 26.7px;
+    letter-spacing: 1.7px;
+    line-height: 1.333;
+}
+
+.main-db-blank-page {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding-right: 63px;
+    width: 1366px;
+    box-sizing: border-box;
+}
+
+.sidebar-button {
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px;
+    padding-left: 0.5px;
+}
+
+.sidebarmain {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    width: fit-content;
+    overflow-wrap: break-word;
+    font-family: 'Metropolis', 'Source Sans 3';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #000000;
+    align-items: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px;
+    padding-left: 0.5px;
+}
